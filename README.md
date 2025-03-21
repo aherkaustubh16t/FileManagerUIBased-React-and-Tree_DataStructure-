@@ -59,7 +59,3 @@ We welcome contributions! If you'd like to improve this project, follow these st
 5. Open a Pull Request.
 📄 License
 This project is open-source and available under the **MIT License**.
-💬 Contact & Support
-If you have any questions or suggestions, feel free to reach out:
-📧 **Email:** [your-email@example.com]
-🔗 **LinkedIn:** [Your LinkedIn Profile]
